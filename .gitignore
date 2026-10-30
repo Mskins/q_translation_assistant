@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 本地工具/代理状态（不随仓库分发）
+.codegraph/
+.omo/
+
+# 编辑器/系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Blender 备份文件
+*.blend1
+*.blend2
+*.blend3
